@@ -1,0 +1,9 @@
+# Dataset files
+Dataset/*.csv
+
+# Temporary files
+*.tmp
+*.log
+
+# MySQL files
+*.sql~
