@@ -1,0 +1,8 @@
+-- RETAIL SALES SQL PROJECT
+
+-- CREATE DATABASE
+
+
+CREATE DATABASE retail_sales;
+
+USE retail_sales;
